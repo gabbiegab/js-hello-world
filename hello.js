@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello");console.log('Hello, World!');console.log("Patience is key!"); console.log ("Take deep breaths and use your resources");
+console.log("Today we talk about a story of trimph"); console.log("After hours of re-reading the manual, Gabbie figured out how to do this assignment.");
+console.log(2023);console.log('"I claim this year as the one I learn to code"');
 
 /*  
 Next, PLAY! 
